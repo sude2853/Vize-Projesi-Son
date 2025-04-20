@@ -1,1 +1,1 @@
-[Web Siteme Git](hptts://fiyasko.shop)
+[Web Siteme Git](hptt://fiyasko.shop)
